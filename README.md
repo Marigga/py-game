@@ -1,2 +1,3 @@
 # py-game
-Simple loop python text game
+Short and simple python loop text game.
+
