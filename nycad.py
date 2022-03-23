@@ -1,4 +1,3 @@
-from http.client import TEMPORARY_REDIRECT
 import time
 
 def print_pause(message_here):
@@ -31,3 +30,4 @@ while True:
             break
         else:
             print_pause("Sorry, I don't speak stupid.")
+            
